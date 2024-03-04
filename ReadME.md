@@ -1,2 +1,2 @@
 Hello there!
-I hope you fount this repo useful for you :D
+I hope you found this repo useful for you :D
